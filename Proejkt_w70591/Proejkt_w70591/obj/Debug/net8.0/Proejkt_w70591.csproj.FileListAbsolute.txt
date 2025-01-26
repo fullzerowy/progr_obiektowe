@@ -1,0 +1,14 @@
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\bin\Debug\net8.0\Proejkt_w70591.exe
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\bin\Debug\net8.0\Proejkt_w70591.deps.json
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\bin\Debug\net8.0\Proejkt_w70591.runtimeconfig.json
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\bin\Debug\net8.0\Proejkt_w70591.dll
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\bin\Debug\net8.0\Proejkt_w70591.pdb
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.AssemblyInfoInputs.cache
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.AssemblyInfo.cs
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.csproj.CoreCompileInputs.cache
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.dll
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\refint\Proejkt_w70591.dll
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.pdb
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\Proejkt_w70591.genruntimeconfig.cache
+C:\Users\Timofei\source\repos\Proejkt_w70591\Proejkt_w70591\obj\Debug\net8.0\ref\Proejkt_w70591.dll
