@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\bin\Debug\net8.0\projekt_w70591.exe
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\bin\Debug\net8.0\projekt_w70591.deps.json
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\bin\Debug\net8.0\projekt_w70591.runtimeconfig.json
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\bin\Debug\net8.0\projekt_w70591.dll
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\bin\Debug\net8.0\projekt_w70591.pdb
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.dll
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\refint\projekt_w70591.dll
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.pdb
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\projekt_w70591.genruntimeconfig.cache
+C:\Users\dmitr\source\repos\projekt_w70591\projekt_w70591\obj\Debug\net8.0\ref\projekt_w70591.dll
